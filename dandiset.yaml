@@ -9,7 +9,7 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: LFP & MUA from BF (2021). (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000024/draft
+citation: LFP & MUA from BF (2022). (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000024/draft
 dateCreated: '2020-05-28T10:26:44.762000+00:00'
 description: billateral LFP recordings from barrel field of rats during bi- and unilateral
   whiskers stimulation
